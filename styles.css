@@ -1,11 +1,11 @@
 body {
-    background-color: #ED7117;
+    background-color: black;
   }
   h1 {
-    color: blue;
+    color: #7C00FE;
   }
   p {
-    color: red;
+    color: #F5004F;
   } 
   ul {
     list-style-type: none;
